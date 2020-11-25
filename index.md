@@ -34,10 +34,4 @@ I'm (co)author of several OCaml libraries and programs, listed below.
     Bardou, François Bobot, Johannes Kanig, Stéphane Lescuyer)
   * [ocamlwc](https://github.com/backtracking/ocamlwc)
 * my [OCaml bazaar](https://github.com/backtracking/ocaml-bazaar),
-  which contains random unorganized/unpackaged stuff,
-  including (not exhaustively)
-  * resizable arrays:
-    [vector.ml](https://github.com/backtracking/ocaml-bazaar/blob/main/vector.ml)
-  * Knuth's dancing links (see also
-    [Combine](https://github.com/backtracking/combine))
-  * Braun trees: [braun.ml](https://github.com/backtracking/ocaml-bazaar/blob/main/braun.ml)
+  which contains random unorganized/unpackaged stuff
