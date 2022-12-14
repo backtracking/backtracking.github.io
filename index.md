@@ -20,7 +20,7 @@ I'm (co)author of several OCaml libraries and programs, listed below.
   * Patricia trees: [ptset](https://github.com/backtracking/ptset) and
     [ptmap](https://github.com/backtracking/ptmap)
   * combinatorics: [Combine](https://github.com/backtracking/combine)
-    (with Remy El Sibaïe)  
+    (with Remy El Sibaïe)
     includes Knuth's dancing links
   * distributed computing, a la map-reduce: [Functory](https://github.com/backtracking/functory) (with Kalyan Krishnamani)
   * hash-consing: [hashcons](https://github.com/backtracking/ocaml-hashcons)
